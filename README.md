@@ -16,6 +16,7 @@ To run this application, you need to have Python installed. These are the depend
 
 - `customtkinter`: A modern and customizable tkinter interface.
 - `yt-dlp`: A command-line program to download videos from YouTube and other sites.
+- `humanize`: Turns a number into a human-readable duration.
 
 ### Installation
 
