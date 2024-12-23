@@ -7,8 +7,8 @@ This YouTube MP3 Downloader is a simple Python application that allows users to 
 ## Features
 
 - Sleek UI built with `customtkinter`.
-- Downloads the best audio quality available.
-- Saves the audio file in MP3 format.
+- Saves the audio file in MP3 format and freshly supported MP4 format!
+- Downloads the best audio and video quality available.
 
 ## Dependencies
 
@@ -17,6 +17,8 @@ To run this application, you need to have Python installed. These are the depend
 - `customtkinter`: A modern and customizable tkinter interface.
 - `yt-dlp`: A command-line program to download videos from YouTube and other sites.
 - `humanize`: Turns a number into a human-readable duration.
+- `pillow`: Library for saving image formats.
+- `requests`: Makes HTTPS requests to a specified URL.
 
 ### Installation
 
